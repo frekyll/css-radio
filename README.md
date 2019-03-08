@@ -1,6 +1,8 @@
 # css-radio
 > Friendly CSS radio button
 
+[![Build Status](https://travis-ci.org/frekyll/css-radio.svg?branch=master)](https://travis-ci.org/frekyll/css-radio)
+
 This is inspired by [wtf-forms](https://github.com/mdo/wtf-forms). I often find myself copying this source, so I made a package.
 
 ## Features
